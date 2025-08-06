@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0">  
+<channel>
+
+      <title> Sitesworld Digital World Maps</title>
+      <link> https://www.sitesworld.com/ </link>
+      <description> Full Screen Digital World Maps </description>
+      <language>en-us</language>
+      <docs>https://backend.userland.com/rss</docs>
+      <generator>PHP/</generator>
+	  <category> world maps </category>
+
+
+      <item>
+		<title> Digital Map of Algeria </title>
+		<link> https://www.sitesworld.com/Algeria/map.html </link>
+		<description>
+		Digital Map of Algeria .
+		</description>
+		<pubDate> Mon, 26 Mar 2012 02:40:34 -0400 </pubDate>
+		<guid isPermaLink="false"> sitesworldmap326 </guid>
+		<author> nobody@blogger.com </author>
+		<category> Algeria </category>
+      </item>
+	  
+
+	   </channel>
+		</rss>
+	

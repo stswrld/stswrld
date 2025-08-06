@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="notes" value="THIS IS MANUAL, READ BELOW:&#xD;- copy Bahrain/map.html to temp, REPLACE all Bahrain with The_World, &#xD;- then APPROPRIATELY REPLACE The_World with The World (no underscore), &#xD;-THEN COPY ENTIRE function getWindowHeight()   JS CHUNK AND COPY OVER (address is &quot;Mali&quot; for The World, etc). &#xD;-*DELETE* div id=mp_factbox" />
+	<infoitem key="showOnOpen" value="true" />
+</info>
